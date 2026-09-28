@@ -1,0 +1,9 @@
+Vendor,Shipment_Count,Predicted_Status,Average_Delay_Probability,Compliance_Score,Compliance_Status,Overall_Risk
+Alpha Logistics,10,Delayed,77.9,33.33,Non-Compliant,High Risk
+Beta Suppliers,21,Delayed,78.0,100.0,Compliant,Medium Risk
+Delta Traders,11,Delayed,88.45,100.0,Compliant,Medium Risk
+Epsilon Exports,10,Delayed,81.2,66.67,Partially Compliant,Medium Risk
+Gamma Industries,9,Delayed,82.11,100.0,Compliant,Medium Risk
+Omega Supplies,16,Delayed,80.19,66.67,Partially Compliant,Medium Risk
+Prime Logistics,11,Delayed,80.36,66.67,Partially Compliant,Medium Risk
+Zeta Manufacturing,12,Delayed,79.67,100.0,Compliant,Medium Risk

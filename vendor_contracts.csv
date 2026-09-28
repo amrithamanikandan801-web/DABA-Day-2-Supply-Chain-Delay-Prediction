@@ -1,0 +1,9 @@
+Vendor,Delivery_Period_Days,Payment_Period_Days,Delay_Notification_Hours,Insurance,Confidentiality,Termination_Clause,Compliance_Score,Compliance_Status
+Alpha Logistics,14,60,48,Missing,Missing,Present,33.33,Non-Compliant
+Beta Suppliers,14,15,24,Present,Present,Present,100.0,Compliant
+Gamma Industries,7,30,12,Present,Present,Present,100.0,Compliant
+Delta Traders,5,45,24,Present,Present,Present,100.0,Compliant
+Epsilon Exports,11,30,24,Present,Present,Missing,66.67,Partially Compliant
+Zeta Manufacturing,14,45,12,Present,Present,Present,100.0,Compliant
+Omega Supplies,10,60,12,Missing,Present,Present,66.67,Partially Compliant
+Prime Logistics,12,30,12,Present,Present,Missing,66.67,Partially Compliant
